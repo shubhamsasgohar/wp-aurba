@@ -1,0 +1,2 @@
+[19-Sep-2024 16:08:59 UTC] PHP Deprecated:  Hook add_to_cart_redirect is <strong>deprecated</strong> since version 3.0.0! Use woocommerce_add_to_cart_redirect instead. in /home/1164084.cloudwaysapps.com/zrcsgfazwg/public_html/wp-includes/functions.php on line 6085
+[19-Sep-2024 16:08:59 UTC] PHP Deprecated:  Function WC_Cart::get_checkout_url is <strong>deprecated</strong> since version 2.5! Use wc_get_checkout_url instead. in /home/1164084.cloudwaysapps.com/zrcsgfazwg/public_html/wp-includes/functions.php on line 6085

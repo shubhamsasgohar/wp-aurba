@@ -1,0 +1,62 @@
+{
+  "name": "timersys/geotargeting-pro",
+  "description": "WordPress plugin for geotargeting that works with GeotargetingWP API",
+  "homepage": "https://geotargetingwp.com",
+  "keywords": [
+    "wordpress",
+    "geotargeting",
+    "geolocation",
+    "plugin"
+  ],
+  "config": {
+    "platform": {
+      "php": "7.2.5"
+    }
+  },
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Damian Logghe",
+      "email": "damian@timersys.com",
+      "homepage": "https://timersys.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/timersys/geotargeting-pro/issues",
+    "source": "https://github.com/timersys/geotargeting-pro"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "type": "wordpress-plugin",
+  "autoload": {
+    "classmap": [
+      "includes/geot/Session/wp-session/CacheHandler.php",
+      "includes/geot/Session/wp-session/deprecated.php",
+      "includes/geot/Session/wp-session/DatabaseHandler.php",
+      "includes/geot/Session/wp-session/SessionHandler.php",
+      "includes/geot/Session/wp-session/Option.php",
+      "includes/geot/Session/wp-session/OptionsHandler.php"
+    ],
+    "psr-4": {
+      "GeotCore\\": "includes/geot"
+    },
+    "files": [
+      "includes/geot/functions_include.php"
+    ]
+  },
+  "require": {
+    "timersys/geotargetingwp": "dev-master",
+    "php": ">=7.0",
+    "ip2location/ip2location-php": "8.*",
+    "maxmind-db/reader": "1.6.0",
+    "jaybizzle/crawler-detect" :"master",
+    "ericmann/sessionz": "^0.3",
+    "woocommerce/action-scheduler": "^3"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/timersys/Crawler-Detect.git"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+2024-09-19 15:12:24.911876 - DEBUG --> WC_GFPA_Cart::add_to_cart_validation(): [woocommerce-gravityforms-product-addons] Processing Add to Cart Validation #1. 
+2024-09-19 15:12:24.912069 - DEBUG --> GFFormDisplay::process_form(): Starting to process form (#1) submission. 
+2024-09-19 15:12:24.912341 - DEBUG --> GFFormDisplay::process_form(): Executing functions hooked to gform_pre_process. 
+2024-09-19 15:12:24.912486 - DEBUG --> GFFormDisplay::process_form(): Completed gform_pre_process. 
+2024-09-19 15:12:24.912787 - DEBUG --> GFFormDisplay::process_form(): Source page number: 1. Target page number: 2. 
+2024-09-19 15:12:24.912890 - DEBUG --> GFFormDisplay::validate(): Starting for form #1. 
+2024-09-19 15:12:24.912919 - DEBUG --> GFFormDisplay::validate(): Executing functions hooked to gform_pre_validation. 
+2024-09-19 15:12:24.913589 - DEBUG --> GFFormDisplay::validate(): Completed gform_pre_validation. 
+2024-09-19 15:12:24.913625 - DEBUG --> GFFormDisplay::validate(): Checking restrictions. 
+2024-09-19 15:12:24.914309 - DEBUG --> GFFormDisplay::validate(): Completed restrictions. Starting field validation. 
+2024-09-19 15:12:24.914846 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: First names (5 - text) 
+2024-09-19 15:12:24.915858 - DEBUG --> GFFormDisplay::validate_character_encoding(): gf_entry_meta meta_value charset = utf8mb4 
+2024-09-19 15:12:24.915919 - DEBUG --> GFFormDisplay::validate_character_encoding(): reflecting methods 
+2024-09-19 15:12:24.915985 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.001138 seconds. Value is valid ascii 
+2024-09-19 15:12:24.916100 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Last names (6 - text) 
+2024-09-19 15:12:24.916129 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000032 seconds. Value is valid ascii 
+2024-09-19 15:12:24.916814 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Home address (12 - text) 
+2024-09-19 15:12:24.916858 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000055 seconds. Value is valid ascii 
+2024-09-19 15:12:24.916913 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: City and ZIP/postal code (13 - text) 
+2024-09-19 15:12:24.916938 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000028 seconds. Value is valid ascii 
+2024-09-19 15:12:24.917016 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Home country (14 - address) 
+2024-09-19 15:12:24.917042 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000033 seconds. Value is valid ascii 
+2024-09-19 15:12:24.918025 - DEBUG --> GF_Field_FileUpload::validate(): Validating field input_20 
+2024-09-19 15:12:24.918091 - DEBUG --> GF_Field_FileUpload::validate(): Validating file upload for travels.png 
+2024-09-19 15:12:24.918145 - DEBUG --> GF_Field_FileUpload::validate(): Validation complete. 
+2024-09-19 15:12:24.932343 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Airline / Vessel Company (83 - text) 
+2024-09-19 15:12:24.932445 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000132 seconds. Value is valid ascii 
+2024-09-19 15:12:24.932564 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Country of departure (84 - address) 
+2024-09-19 15:12:24.932593 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000033 seconds. Value is valid ascii 
+2024-09-19 15:12:24.932670 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Port of departure to Aruba (85 - text) 
+2024-09-19 15:12:24.932698 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000040 seconds. Value is valid ascii 
+2024-09-19 15:12:24.932784 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Port of arrival in Aruba (86 - text) 
+2024-09-19 15:12:24.932811 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000030 seconds. Value is valid ascii 
+2024-09-19 15:12:24.932869 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Flight / Vessel number (87 - text) 
+2024-09-19 15:12:24.932894 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000027 seconds. Value is valid ascii 
+2024-09-19 15:12:24.933304 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Name of accommodation facility (92 - text) 
+2024-09-19 15:12:24.933346 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000051 seconds. Value is valid ascii 
+2024-09-19 15:12:24.933424 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Accommodation address (93 - text) 
+2024-09-19 15:12:24.933450 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000028 seconds. Value is valid ascii 
+2024-09-19 15:12:24.933521 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Local phone number (94 - text) 
+2024-09-19 15:12:24.933546 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000028 seconds. Value is valid ascii 
+2024-09-19 15:12:24.934762 - DEBUG --> GFFormDisplay::validate(): Field validation completed in 0.020006 seconds. 
+2024-09-19 15:12:24.934813 - DEBUG --> GFFormDisplay::validate(): Executing functions hooked to gform_validation. 
+2024-09-19 15:12:24.934848 - DEBUG --> GFFormDisplay::validate(): Completed gform_validation. 
+2024-09-19 15:12:24.934870 - DEBUG --> GFFormDisplay::process_form(): After validation. Is submission valid? No. 
+2024-09-19 15:12:24.934904 - DEBUG --> GFFormDisplay::process_form(): Processing completed in 0.022872 seconds. 
+2024-09-19 15:53:30.974587 - DEBUG --> GFForms::maybe_auto_update() - Starting auto-update for gravityforms. 
+2024-09-19 15:53:30.975028 - DEBUG --> GFForms::is_auto_update_disabled() - $enabled: true 
+2024-09-19 15:53:30.975099 - DEBUG --> GFForms::is_auto_update_disabled() - $disabled: false 
+2024-09-19 15:53:30.975126 - DEBUG --> GFForms::is_auto_update_disabled() - GFORM_DISABLE_AUTO_UPDATE: false 
+2024-09-19 15:53:30.975155 - DEBUG --> GFForms::maybe_auto_update() - $auto_update_disabled: false 
+2024-09-19 15:53:30.975245 - DEBUG --> GFForms::maybe_auto_update() - OK to update. 
+2024-09-19 15:53:35.042984 - DEBUG --> GF_Upgrade::set_upgrade_started(): Upgrade Locked. 
+2024-09-19 15:53:35.090143 - DEBUG --> GF_Upgrade::test_auto_increment(): Testing whether tables have auto_increment set correctly. 
+2024-09-19 15:53:35.093312 - DEBUG --> GF_Upgrade::get_auto_increment_tables(): Checking tables for auto_increment flag: Array
+(
+    [0] => Array
+        (
+            [table] => wp_gf_addon_feed
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => mediumint(8) unsigned
+        )
+
+    [1] => Array
+        (
+            [table] => wp_gf_entry
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => int(10) unsigned
+        )
+
+    [2] => Array
+        (
+            [table] => wp_gf_entry_meta
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => bigint(10) unsigned
+        )
+
+    [3] => Array
+        (
+            [table] => wp_gf_form
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => mediumint(10) unsigned
+        )
+
+    [4] => Array
+        (
+            [table] => wp_gf_addon_payment_transaction
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => int(10) unsigned
+        )
+
+    [5] => Array
+        (
+            [table] => wp_gf_form_revisions
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => bigint(10) unsigned
+        )
+
+    [6] => Array
+        (
+            [table] => wp_gf_form_view
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => bigint(10) unsigned
+        )
+
+    [7] => Array
+        (
+            [table] => wp_gf_entry_notes
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => int(10) unsigned
+        )
+
+    [8] => Array
+        (
+            [table] => wp_gf_addon_payment_callback
+            [auto_increment_flag] => auto_increment
+            [column_data_type] => int(10) unsigned
+        )
+
+)
+ 
+2024-09-19 15:53:35.101821 - DEBUG --> GF_Upgrade::post_upgrade_schema(): Background upgrade not necessary. Setting new version. 
+2024-09-19 15:53:35.156922 - DEBUG --> GF_Upgrade::set_upgrade_ended(): Upgrade Completed. 
+2024-09-19 16:08:58.878825 - DEBUG --> WC_GFPA_Cart::add_to_cart_validation(): [woocommerce-gravityforms-product-addons] Processing Add to Cart Validation #1. 
+2024-09-19 16:08:58.879211 - DEBUG --> GFFormDisplay::process_form(): Starting to process form (#1) submission. 
+2024-09-19 16:08:58.879472 - DEBUG --> GFFormDisplay::process_form(): Executing functions hooked to gform_pre_process. 
+2024-09-19 16:08:58.879596 - DEBUG --> GFFormDisplay::process_form(): Completed gform_pre_process. 
+2024-09-19 16:08:58.880014 - DEBUG --> GFFormDisplay::process_form(): Source page number: 1. Target page number: 2. 
+2024-09-19 16:08:58.880069 - DEBUG --> GFFormDisplay::validate(): Starting for form #1. 
+2024-09-19 16:08:58.880108 - DEBUG --> GFFormDisplay::validate(): Executing functions hooked to gform_pre_validation. 
+2024-09-19 16:08:58.880783 - DEBUG --> GFFormDisplay::validate(): Completed gform_pre_validation. 
+2024-09-19 16:08:58.880810 - DEBUG --> GFFormDisplay::validate(): Checking restrictions. 
+2024-09-19 16:08:58.881377 - DEBUG --> GFFormDisplay::validate(): Completed restrictions. Starting field validation. 
+2024-09-19 16:08:58.882443 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: First names (5 - text) 
+2024-09-19 16:08:58.883492 - DEBUG --> GFFormDisplay::validate_character_encoding(): gf_entry_meta meta_value charset = utf8mb4 
+2024-09-19 16:08:58.883538 - DEBUG --> GFFormDisplay::validate_character_encoding(): reflecting methods 
+2024-09-19 16:08:58.883583 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.001410 seconds. Value is valid ascii 
+2024-09-19 16:08:58.883702 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Last names (6 - text) 
+2024-09-19 16:08:58.883733 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000035 seconds. Value is valid ascii 
+2024-09-19 16:08:58.884430 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Home address (12 - text) 
+2024-09-19 16:08:58.884478 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000056 seconds. Value is valid ascii 
+2024-09-19 16:08:58.884532 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: City and ZIP/postal code (13 - text) 
+2024-09-19 16:08:58.884557 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000027 seconds. Value is valid ascii 
+2024-09-19 16:08:58.884630 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Home country (14 - address) 
+2024-09-19 16:08:58.884658 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000029 seconds. Value is valid ascii 
+2024-09-19 16:08:58.885690 - DEBUG --> GF_Field_FileUpload::validate(): Validating field input_20 
+2024-09-19 16:08:58.885734 - DEBUG --> GF_Field_FileUpload::validate(): Validating file upload for travels.png 
+2024-09-19 16:08:58.885771 - DEBUG --> GF_Field_FileUpload::validate(): Validation complete. 
+2024-09-19 16:08:58.897886 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Airline / Vessel Company (83 - text) 
+2024-09-19 16:08:58.898006 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000143 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898140 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Country of departure (84 - address) 
+2024-09-19 16:08:58.898171 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000036 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898236 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Port of departure to Aruba (85 - text) 
+2024-09-19 16:08:58.898262 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000027 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898319 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Port of arrival in Aruba (86 - text) 
+2024-09-19 16:08:58.898344 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000026 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898401 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Flight / Vessel number (87 - text) 
+2024-09-19 16:08:58.898427 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000027 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898828 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Name of accommodation facility (92 - text) 
+2024-09-19 16:08:58.898869 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000050 seconds. Value is valid ascii 
+2024-09-19 16:08:58.898942 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Accommodation address (93 - text) 
+2024-09-19 16:08:58.898969 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000029 seconds. Value is valid ascii 
+2024-09-19 16:08:58.899036 - DEBUG --> GFFormDisplay::validate_character_encoding(): Starting invalid characters validation for field: Local phone number (94 - text) 
+2024-09-19 16:08:58.899061 - DEBUG --> GFFormDisplay::validate_character_encoding(): Completed in 0.000026 seconds. Value is valid ascii 
+2024-09-19 16:08:58.900152 - DEBUG --> GFFormDisplay::validate(): Field validation completed in 0.018150 seconds. 
+2024-09-19 16:08:58.900193 - DEBUG --> GFFormDisplay::validate(): Executing functions hooked to gform_validation. 
+2024-09-19 16:08:58.900227 - DEBUG --> GFFormDisplay::validate(): Completed gform_validation. 
+2024-09-19 16:08:58.900249 - DEBUG --> GFFormDisplay::process_form(): After validation. Is submission valid? No. 
+2024-09-19 16:08:58.900283 - DEBUG --> GFFormDisplay::process_form(): Processing completed in 0.021117 seconds. 

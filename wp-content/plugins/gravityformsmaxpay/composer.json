@@ -1,0 +1,13 @@
+{
+    "name": "mizanexpert/gravityformsmaxpay",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "GF_Maxpay\\": "includes/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "psr/log": "^1.1"
+    }
+}

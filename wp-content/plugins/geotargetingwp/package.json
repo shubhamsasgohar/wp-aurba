@@ -1,0 +1,25 @@
+{
+  "name": "geotargetingwp-plugin",
+  "version": "1.0.0",
+  "description": "GeotargetingWP\r =========================",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timersys/geotargetingwp-plugin.git"
+  },
+  "author": "Timersys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timersys/geotargetingwp-plugin/issues"
+  },
+  "homepage": "https://github.com/timersys/geotargetingwp-plugin#readme"
+}

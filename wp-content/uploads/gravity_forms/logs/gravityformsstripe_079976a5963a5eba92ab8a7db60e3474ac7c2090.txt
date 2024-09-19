@@ -1,0 +1,2 @@
+2024-09-18 20:04:44.793838 - DEBUG --> GFFeedAddOn::maybe_process_feed(): Checking for feeds to process for entry #4 for gravityformsstripe. 
+2024-09-18 20:04:44.793991 - DEBUG --> GFFeedAddOn::maybe_process_feed(): No feeds to process for entry #4. 
